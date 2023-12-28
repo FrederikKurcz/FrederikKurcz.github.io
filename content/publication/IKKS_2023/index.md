@@ -2,24 +2,24 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Do words hurt more than actions? The impact of trade tensions on financial markets"
-authors: ["Massimo Ferrari Minesso", "Frederik Kurcz", "Maria Sole Pagliari"]
-date: 2022-01-01
+authors: ["Gökhan Ider", "Alexander Kriwoluzky", "Frederik Kurcz", "Ben Schumann"]
+date: 2023-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-07-22
+publishDate: 2023-05-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Journal of Applied Econometrics***, 37(6), pp. 1138-1159" #  "***Economic Journal***, 133(652), pp. 1318-1347"
+publication: "New draft coming soon!" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
-abstract: "We use machine learning techniques to quantify trade tensions between the United States and China. Our measure matches well-known events in the US-China trade dispute and is exogenous to the developments on global financial markets. Local projections show that rising trade tensions leave US markets largely unaffected, except for firms that are more exposed to China, while negatively impacting stock market indices and exchange rates in China and emerging markets. We complement these findings with additional evidence suggesting that the US-China trade tensions have been interpreted as a negative demand shock for the Chinese economy rather than as a global risk shock."
+abstract: "This study examines whether central banks can combat inflation that is caused by rising energy prices. By using a high-frequency event study and a Structural Vector Autoregression, we find evidence that the European Central Bank (ECB) and the Federal Reserve (Fed) are capable of doing so by affecting domestic and global energy prices. This “energy-price channel” of monetary policy plays an important role in the transmission mechanism of monetary policy. As many major sources of energy, such as oil, are priced in dollars, fluctuations in the domestic exchange rate vis-a-vis the dollar crucially shapes the transmission of monetary policy to energy prices. On the one hand an appreciation of the euro against the dollar lowers local energy prices (in euro) through cheaper imports. On the other hand lower import prices raise energy demand and thereby increase global energy prices (in dollars). Our counterfactual analysis demonstrates that both effects are present, but the latter effect is stronger than the former."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -31,10 +31,12 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Published Version
-  url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2924"
-- name: Working paper version
-  url: "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2490~c7ecce3cf3.en.pdf"
+- name: Working Paper
+  url: "https://www.diw.de/de/diw_01.c.868033.de/publikationen/diskussionspapiere/2023_2033/the_energy-price_channel_of__european__monetary_policy.html"
+#- name: Ungated
+#  url: files/BBEG_2018wp.pdf
+#- name: Earlier CEPR DP9702
+#  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=9702"
 #- name: Earlier NBER WP19180
 #  url: "https://www.nber.org/papers/w19180"
 # url: "https://doi.org/10.1016/j.jmoneco.2018.07.013"
