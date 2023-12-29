@@ -4,7 +4,7 @@ title: 'Frederik Kurcz'
 date: 2023-12-26
 type: landing
 
-sections:
+-sections:
    - block: about.biography
     id: about
     content:
