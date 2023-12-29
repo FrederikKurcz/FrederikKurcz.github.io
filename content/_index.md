@@ -50,7 +50,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: false # this means displaying the full abstract and everything on the website (when true)
     design:
       columns: '2'
       view: card
