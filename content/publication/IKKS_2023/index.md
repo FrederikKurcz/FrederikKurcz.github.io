@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Do words hurt more than actions? The impact of trade tensions on financial markets"
+title: "The Energy-Price Channel of (European) Monetary Policy"
 authors: ["Gökhan Ider", "Alexander Kriwoluzky", "Frederik Kurcz", "Ben Schumann"]
 date: 2023-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-05-01
+publishDate: 2023-03-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
