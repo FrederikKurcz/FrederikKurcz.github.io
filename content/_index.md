@@ -49,7 +49,7 @@ sections:
       title: Current work
       filters:
         folders:
-          - publication/Current_work
+          - publication
         featured_only: true
     design:
       columns: '2'
@@ -63,7 +63,7 @@ sections:
        # {{% /callout %}}
       filters:
         folders:
-          - publication/Publications
+          - publication
         exclude_featured: true
     design:
       columns: '2'

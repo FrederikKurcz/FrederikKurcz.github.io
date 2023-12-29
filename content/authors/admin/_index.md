@@ -42,7 +42,7 @@ education:
     - course: M.Sc. in Economics
       institution: University of Tuebingen
       year: 2018
-    - course: BSc in Artificial Intelligence
+    - course: B.Sc. in Economics and Business Administration
       institution: Stuttgart-Hohenheim University
       year: 2015
 
@@ -78,7 +78,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: pdf_files/CV_Frederik_Kurcz.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
