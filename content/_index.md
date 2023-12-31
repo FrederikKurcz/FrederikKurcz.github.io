@@ -69,6 +69,22 @@ sections:
     design:
       columns: '2'
       view: citation
+- block: collection
+  id: teaching
+  content:
+    title: Teaching 
+      items:
+        - title: Behavioral Macroeconomics - Seminar (B.Sc.) 
+          #company: GenCoin
+          #company_url: ''
+          #company_logo: org-gc
+          #location: California
+          #date_start: '2021-01-01'
+          #date_end: ''
+          description: |2-
+              Teaching Assistant
+    design:
+
   - block: contact
     id: contact
     content:

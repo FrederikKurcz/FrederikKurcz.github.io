@@ -9,16 +9,16 @@ main:
     weight: 10
   - name: Research
     url: '#featured'
-    weight: 40
+    weight: 20
   #- name: Current Work
   #  url: '#working_papers'
   #  weight: 20
   #- name: Work in Progress
   #  url: '#projects'
   #  weight: 30
-  #- name: Teaching
-  #  url: '#teaching'
-  #  weight: 30
+  - name: Teaching
+    url: '#teaching'
+    weight: 30
   - name: Contact
     url: '#contact'
     weight: 60
