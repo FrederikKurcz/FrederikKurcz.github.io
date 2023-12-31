@@ -84,7 +84,7 @@ sections:
           description: |2-
               Teaching Assistant
     design:
-
+      columns: '2'
   - block: contact
     id: contact
     content:
