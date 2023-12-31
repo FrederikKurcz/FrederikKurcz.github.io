@@ -83,8 +83,8 @@ sections:
           #date_end: ''
           description: |2-
               Teaching Assistant
-    design:
-      columns: '2'
+  design:
+    columns: '2'
   - block: contact
     id: contact
     content:
