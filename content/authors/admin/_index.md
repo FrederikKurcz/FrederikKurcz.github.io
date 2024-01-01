@@ -23,9 +23,11 @@ role: PhD Student
 organizations:
   - name: Berlin School of Economics
     url: https://berlinschoolofeconomics.de/home
+  - name: DIW Berlin
+    url: https://www.diw.de/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, welcome to my website.
+bio: I am a fourth year PhD Student at the Berlin School of Economics, affiliated with the Free University Berlin, and a research associate at the German Institute for Economic Research (DIW Berlin).
 
 # Interests to show in About widget
 interests:
