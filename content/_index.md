@@ -51,6 +51,7 @@ sections:
         folders:
           - publication
         featured_only: false # this means displaying the full abstract and everything on the website (when true)
+        publication_type: '3'
     design:
       columns: '2'
       view: card
@@ -66,6 +67,18 @@ sections:
           - publication
         exclude_featured: true
         publication_type: '2'
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    #id: featured
+    content:
+      title: Work in progress
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+        publication_type: '0'
     design:
       columns: '2'
       view: citation
