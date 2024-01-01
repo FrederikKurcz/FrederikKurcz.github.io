@@ -33,7 +33,7 @@ featured: false
 links:
 - name: Published Version
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2924"
-- name: Working paper version
+- name: ECB Working paper version
   url: "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2490~c7ecce3cf3.en.pdf"
 #- name: Earlier NBER WP19180
 #  url: "https://www.nber.org/papers/w19180"

@@ -31,7 +31,7 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Working Paper
+- name: DIW Working Paper
   url: "https://www.diw.de/de/diw_01.c.868033.de/publikationen/diskussionspapiere/2023_2033/the_energy-price_channel_of__european__monetary_policy.html"
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
