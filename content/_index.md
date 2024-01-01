@@ -71,9 +71,21 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: Teaching
+      #subtitle: My subtitle
+      items:
+          - title: Behavioral Macroeconomics - Seminar (B.Sc.) 
+            #company: GenCoin
+            #company_url: ''
+            #company_logo: org-gc
+            #location: California
+            #date_start: '2021-01-01'
+            #date_end: ''
+            description: |2-
+                Teaching Assistant
+      design:
+        columns: '2'
+#      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 #  - block: collection
 #    id: teaching
 #    content:
