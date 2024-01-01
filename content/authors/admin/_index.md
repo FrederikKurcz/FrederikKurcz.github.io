@@ -86,5 +86,5 @@ social:
 highlight_name: true
 ---
 
-Hi, welcome to my website. I am a PhD student at the Berlin School of Economics and the DIW Berlin.
+I am a fourth year PhD Student at the Berlin School of Economics, affiliated with the Free University Berlin, and a research associate at the German Institute for Economic Research (DIW Berlin).
 {style="text-align: justify;"}
