@@ -124,7 +124,7 @@ sections:
         - Winter 2022/2023 Behavioral Macroeconomics, Seminar (B.Sc.), _Teaching Assistant_ 
         - Summer 2022 Fundamentals of Macroeconomics (B.Sc.), _Teaching Assistant_ 
         - Winter 2021/2022 Behavioral Macroeconomics, Seminar (B.Sc.), _Teaching Assistant_ 
-        {line-height: 1.5 ;}
+        <p style="line-height: 2;">
     design:
       columns: '2'
         #view: compact
