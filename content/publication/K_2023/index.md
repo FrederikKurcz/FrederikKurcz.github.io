@@ -19,7 +19,7 @@ publication_types: ["4"]
 publication: "Draft coming soon!" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
-abstract: ""
+abstract: "Test"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -30,9 +30,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Work in progress
-  url: ""
+#links:
+#- name:
+#  url: ""
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
 #- name: Earlier CEPR DP9702
