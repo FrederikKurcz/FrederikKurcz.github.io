@@ -118,13 +118,12 @@ sections:
     content:
       title: Teaching
       #subtitle: My subtitle
-      text: |-
+      text: |- 
         ## Free University Berlin 
-        
+        <p style="line-height: 2;">
         - Winter 2022/2023 Behavioral Macroeconomics, Seminar (B.Sc.), _Teaching Assistant_ 
         - Summer 2022 Fundamentals of Macroeconomics (B.Sc.), _Teaching Assistant_ 
         - Winter 2021/2022 Behavioral Macroeconomics, Seminar (B.Sc.), _Teaching Assistant_ 
-        <p style="line-height: 2;">
     design:
       columns: '2'
         #view: compact
