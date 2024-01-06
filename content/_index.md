@@ -81,7 +81,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
-        publication_type: '2'
+        publication_type: '4'
     design:
       columns: '2'
       view: citation
