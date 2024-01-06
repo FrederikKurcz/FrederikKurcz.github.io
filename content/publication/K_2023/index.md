@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Fiscal Channel of Monetary Policy"
-authors: ["Frederik Kurcz", "Ben Schumann"]
-date: 2023-01-01
+authors: ["Frederik Kurcz"]
+date: 2023-06-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["4"]
 publication: "New draft coming soon!" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
-abstract: "This study examines whether central banks can combat inflation that is caused by rising energy prices. By using a high-frequency event study and a Structural Vector Autoregression, we find evidence that the European Central Bank (ECB) and the Federal Reserve (Fed) are capable of doing so by affecting domestic and global energy prices. This “energy-price channel” of monetary policy plays an important role in the transmission mechanism of monetary policy. As many major sources of energy, such as oil, are priced in dollars, fluctuations in the domestic exchange rate vis-a-vis the dollar crucially shapes the transmission of monetary policy to energy prices. On the one hand an appreciation of the euro against the dollar lowers local energy prices (in euro) through cheaper imports. On the other hand lower import prices raise energy demand and thereby increase global energy prices (in dollars). Our counterfactual analysis demonstrates that both effects are present, but the latter effect is stronger than the former."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -30,9 +30,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: DIW Working Paper
-  url: "https://www.diw.de/de/diw_01.c.868033.de/publikationen/diskussionspapiere/2023_2033/the_energy-price_channel_of__european__monetary_policy.html"
+#links:
+#- name: DIW Working Paper
+#  url: "https://www.diw.de/de/diw_01.c.868033.de/publikationen/diskussionspapiere/2023_2033/the_energy-price_channel_of__european__monetary_policy.html"
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
 #- name: Earlier CEPR DP9702
