@@ -121,10 +121,9 @@ sections:
       text: |- 
         ## Free University Berlin 
         <span style="line-height: 4;"> 
-        - Winter 2022/2023 Behavioral Macroeconomics, Seminar (B.Sc.), _Teaching Assistant_ 
-       
+
+        - Winter 2022/2023 Behavioral Macroeconomics, Seminar (B.Sc.), _Teaching Assistant_
         - Summer 2022 Fundamentals of Macroeconomics (B.Sc.), _Teaching Assistant_
-       
         - Winter 2021/2022 Behavioral Macroeconomics, Seminar (B.Sc.), _Teaching Assistant_
     design:
       columns: '2'
