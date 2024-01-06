@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Fiscal Channel of Monetary Policy"
-authors: ["Frederik Kurcz"]
-date: 2023-06-01
+title: "The Energy-Price Channel of (European) Monetary Policy"
+authors: ["Guido Baldi", "Paul Berenberg-Gossler", "Hella Engerer", "Simon Junker", "Konstantin A. Kholodilin", "Frederik Kurcz", "Laura Pagenhardt"]
+date: 2023-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-03-01
+publishDate: 2022-02-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Draft coming soon!" #  "***Economic Journal***, 133(652), pp. 1318-1347"
+publication: "***DIW Weekly Report***, 89(7/8), pp. 53-64" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
 abstract: ""
@@ -30,9 +30,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#- name: DIW Working Paper
-#  url: "https://www.diw.de/de/diw_01.c.868033.de/publikationen/diskussionspapiere/2023_2033/the_energy-price_channel_of__european__monetary_policy.html"
+links:
+- name: DIW Weekly Report
+  url: "https://www.diw.de/de/diw_01.c.836675.de/publikationen/weekly_reports/2022_07_1/diw_berlin_economic_outlook__summer_upswing_to_follow_winter_slump.html"
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
 #- name: Earlier CEPR DP9702
