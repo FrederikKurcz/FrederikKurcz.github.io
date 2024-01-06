@@ -16,9 +16,12 @@ main:
   #- name: Work in Progress
   #  url: '#projects'
   #  weight: 30
+  - name: Policy work
+    url: '#policy'
+    weight: 30
   - name: Teaching
     url: '#teaching'
-    weight: 30
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 60

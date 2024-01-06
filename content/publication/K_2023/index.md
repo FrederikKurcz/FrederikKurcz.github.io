@@ -13,7 +13,7 @@ publishDate: 2023-03-01
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "New draft coming soon!" #  "***Economic Journal***, 133(652), pp. 1318-1347"
