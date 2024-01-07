@@ -32,8 +32,8 @@ bio: I am a fourth year PhD Student at the Berlin School of Economics, affiliate
 # Interests to show in About widget
 interests:
   - Macroeconomics
-  - Monetary policy
-  - Distributional effects
+  - Monetary and fiscal policy
+  - Inequality and heterogeneous agents
 
 # Education to show in About widget
 education:
@@ -87,4 +87,7 @@ highlight_name: true
 ---
 
 I am a fourth year PhD Student at the Berlin School of Economics, affiliated with the Free University Berlin, and a research associate at the German Institute for Economic Research (DIW Berlin).
+Previously, I worked as a trainee and research analyst at the European Central Bank as well as at the Deutsche Bundesbank.
+
+My research interests include transmission channels of monetary policy, monetary and fiscal policy interaction, and inequality.
 {style="text-align: justify;"}

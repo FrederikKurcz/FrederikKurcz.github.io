@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "DIW Berlin Economic Outlook: Summer Upswing to Follow Winter Slump"
-authors: ["Guido Baldi", "Paul Berenberg-Gossler", "Hella Engerer", "Simon Junker", "Konstantin A. Kholodilin", "Frederik Kurcz", "Laura Pagenhardt"]
-date: 2022-01-01
+title: "DIW Economic Outlook: German Economy Fighting Its Way out of Winter Recession"
+authors: ["Timm Bönke", "Geraldine Dany-Knedlik", "Guido Baldi", "Hella Engerer", "Pia Hüttl", "Konstantin A. Kholodilin", "Frederik Kurcz", "Theresa Neef", "Laura Pagenhardt", "Werner Roeger", "Marie Rullière", "Jan-Christopher Scherer", "Teresa Schildmann", "Ruben Staffa", "Kristin Trautmann", "Jana Wittich"]
+date: 2023-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-02-01
+publishDate: 2023-05-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2022-02-01
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***DIW Weekly Report***, 89(7/8), pp. 53-64" #  "***Economic Journal***, 133(652), pp. 1318-1347"
+publication: "***DIW Weekly Report***, 13(36/37), pp. 245-253" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
 abstract: ""
@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: DIW Weekly Report
-  url: "https://www.diw.de/de/diw_01.c.836675.de/publikationen/weekly_reports/2022_07_1/diw_berlin_economic_outlook__summer_upswing_to_follow_winter_slump.html"
+  url: "https://www.diw.de/de/diw_01.c.880911.de/publikationen/weekly_reports/2023_36_1/diw_economic_outlook__german_economy_fighting_its_way_out_of_winter_recession.html#:~:text=In%20the%20third%20and%20fourth,percent%20on%20average%20in%202023."
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
 #- name: Earlier CEPR DP9702
