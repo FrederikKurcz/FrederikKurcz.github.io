@@ -176,7 +176,7 @@ sections:
           name: DM Me
           link: 'https://twitter.com/FrederikKurcz'
         - icon: hero/chevron-right
-          icon_pack: chevron-right
+          icon_pack: hero
           name: Link to my DIW website
           link: 'https://www.diw.de/sixcms/detail.php?id=diw_01.c.840943.en'
       #  - icon: skype
