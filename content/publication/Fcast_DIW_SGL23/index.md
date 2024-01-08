@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "DIW Economic Outlook: German Economy currently scarcely making headway"
+title: "DIW Economic Outlook: German Economy Fighting Its Way out of Winter Recession"
 authors: ["Timm Bönke", "Geraldine Dany-Knedlik", "Guido Baldi", "Hella Engerer", "Pia Hüttl", "Konstantin A. Kholodilin", "Frederik Kurcz", "Theresa Neef", "Laura Pagenhardt", "Werner Roeger", "Marie Rullière", "Jan-Christopher Scherer", "Teresa Schildmann", "Ruben Staffa", "Kristin Trautmann", "Jana Wittich"]
 date: 2023-01-01
 doi: ""
@@ -16,7 +16,7 @@ publishDate: 2023-05-01
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***DIW Weekly Report***, 13(36/37), pp. 245-253" #  "***Economic Journal***, 133(652), pp. 1318-1347"
+publication: "***DIW Weekly Report***, 13(24), pp. 173-180" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
 abstract: ""
@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: DIW Weekly Report
-  url: "https://www.diw.de/sixcms/detail.php?id=diw_01.c.880911.de"
+  url: "https://www.diw.de/de/diw_01.c.875624.de/publikationen/weekly_reports/2023_24_1/diw_economic_outlook__german_economy_fighting_its_way_out_of_winter_recession.html"
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
 #- name: Earlier CEPR DP9702

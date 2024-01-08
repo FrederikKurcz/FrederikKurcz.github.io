@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "DIW Economic Outlook: German Economy currently scarcely making headway"
-authors: ["Timm Bönke", "Geraldine Dany-Knedlik", "Guido Baldi", "Hella Engerer", "Pia Hüttl", "Konstantin A. Kholodilin", "Frederik Kurcz", "Theresa Neef", "Laura Pagenhardt", "Werner Roeger", "Marie Rullière", "Jan-Christopher Scherer", "Teresa Schildmann", "Ruben Staffa", "Kristin Trautmann", "Jana Wittich"]
-date: 2023-01-01
+title: "ECB Can Lower Fuel and Heating Costs by Increasing Interest Rates but Would Risk Economic Recovery"
+authors: ["Gökhan Ider", "Alexander Kriwoluzky", "Frederik Kurcz"]
+date: 2022-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-05-01
+publishDate: 2022-03-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2023-05-01
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***DIW Weekly Report***, 13(36/37), pp. 245-253" #  "***Economic Journal***, 133(652), pp. 1318-1347"
+publication: "***DIW Weekly Report***, 12(14/15/16), pp. 109-115" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
 abstract: ""
@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: DIW Weekly Report
-  url: "https://www.diw.de/sixcms/detail.php?id=diw_01.c.880911.de"
+  url: "https://www.diw.de/sixcms/detail.php?id=diw_01.c.838570.de"
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
 #- name: Earlier CEPR DP9702
