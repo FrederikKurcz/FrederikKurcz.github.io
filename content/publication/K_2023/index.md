@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Fiscal Channel of Monetary Policy"
+title: "Quantifying the Fiscal Channel of Monetary Policy"
 authors: ["Frederik Kurcz"]
-date: 2023-06-01
+date: 2024-05-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-03-01
+publishDate: 2024-05-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Draft coming soon!" #  "***Economic Journal***, 133(652), pp. 1318-1347"
