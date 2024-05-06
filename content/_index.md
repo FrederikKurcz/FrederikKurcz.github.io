@@ -70,21 +70,21 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    content:
-      title: Work in progress
-      text: #|-
-       # {{% callout note %}}
-       # Quickly discover relevant content by [filtering publications](./publication/).
-       # {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-        publication_type: '0'
-    design:
-      columns: '2'
-      view: citation
+#  - block: collection
+#    content:
+#      title: Work in progress
+#      text: #|-
+#       # {{% callout note %}}
+#       # Quickly discover relevant content by [filtering publications](./publication/).
+#       # {{% /callout %}}
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: true
+#        publication_type: '0'
+#    design:
+#      columns: '2'
+#      view: citation
   - block: collection
     id: policy
     content:
