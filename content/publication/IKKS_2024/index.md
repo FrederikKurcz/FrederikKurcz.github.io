@@ -16,7 +16,7 @@ publishDate: 2024-07-01
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "(Previously circulated as ""The Energy-Price Channel of (European) Monetary Policy"")" #  "***Economic Journal***, 133(652), pp. 1318-1347"
+publication: "(Previously circulated as The Energy-Price Channel of (European) Monetary Policy)" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
 abstract: "This paper first shows that, contrary to conventional wisdom, the European Central Bank (ECB) can influence global energy prices. Second, through Lucas critique-robust counterfactual analysis, we uncover that the ECB’s ability to affect fast-moving energy prices plays an important role in the transmission of monetary policy. Third, we empirically document that, to optimally fulfill its primary mandate, the ECB should swiftly tighten policy in response to an increase in energy prices. Crucially, the tightening required depends on the ECB’s ability to influence global energy prices. Finally, we find this policy strategy could have largely prevented the post-pandemic inflation episode."
