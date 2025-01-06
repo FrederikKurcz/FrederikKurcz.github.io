@@ -51,7 +51,7 @@ sections:
         folders:
           - publication
         featured_only: false # this means displaying the full abstract and everything on the website (when true)
-        publication_type: 'Working paper' # originally: 3
+        publication_type: 'Working Paper' # originally: 3
     design:
       columns: '2'
       view: card
