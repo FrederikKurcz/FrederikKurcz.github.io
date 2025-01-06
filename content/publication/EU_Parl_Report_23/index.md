@@ -1,25 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Quantifying the Fiscal Channel of Monetary Policy"
-authors: ["Frederik Kurcz"]
-date: 2024-05-01
+title: "Addressing inflationary risks in the face of high energy prices: what can the ECB do?"
+authors: ["Gökhan Ider", "Alexander Kriwoluzky", "Frederik Kurcz", "Ben Schumann"]
+date: 2023-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-05-01
+publishDate: 2023-03-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Draft coming soon!" #  "***Economic Journal***, 133(652), pp. 1318-1347"
+publication: "***European Parliament Monetary Dialogue Paper***" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
-abstract: "In macroeconomic models featuring borrowing-constrained agents, the effects of monetary policy depend on the fiscal reaction to interest rate changes. This paper presents new evidence on the dynamic causal effects of U.S. monetary policy shocks on fiscal instruments and estimates a Heterogeneous Agent New Keynesian model with fiscal feedback rules to match the empirical results. I find that U.S. fiscal policy responds to monetary-induced output contractions with debt-financed, countercyclical tax and transfer policies, amid a gradual decline in spending to accommodate the debt increase. The model implies that monetary policy unopposed by a business cycle stabilization motive of fiscal policy would be roughly one third more contractionary. "
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -30,9 +30,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#- name: DIW Working Paper
-#  url: "https://www.diw.de/de/diw_01.c.868033.de/publikationen/diskussionspapiere/2023_2033/the_energy-price_channel_of__european__monetary_policy.html"
+links:
+- name: DIW Weekly Report
+  url: "https://www.europarl.europa.eu/RegData/etudes/IDAN/2023/741483/IPOL_IDA%282023%29741483_EN.pdf"
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
 #- name: Earlier CEPR DP9702
