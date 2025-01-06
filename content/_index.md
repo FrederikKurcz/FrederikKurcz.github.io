@@ -97,7 +97,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
-        publication_type: 'Policy report' # originally: 4
+        publication_type: '4' # originally: 4
     design:
       columns: '2'
       view: citation
