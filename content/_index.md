@@ -51,7 +51,7 @@ sections:
         folders:
           - publication
         featured_only: false # this means displaying the full abstract and everything on the website (when true)
-        publication_type: '3'
+        publication_type: 'Working paper' # originally: 3
     design:
       columns: '2'
       view: card
@@ -66,7 +66,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
-        publication_type: '2'
+        publication_type: 'Publication' # originally: 2
     design:
       columns: '2'
       view: citation
@@ -97,7 +97,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
-        publication_type: '4'
+        publication_type: 'Policy report' # originally: 4
     design:
       columns: '2'
       view: citation
