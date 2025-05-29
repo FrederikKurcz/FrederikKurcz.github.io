@@ -3,11 +3,11 @@
 
 title: "Quantifying the Fiscal Channel of Monetary Policy"
 authors: ["Frederik Kurcz"]
-date: 2024-05-01
+date: 2025-03-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-05-01
+publishDate: 20254-03-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,9 +30,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: DIW Working Paper
-  url: "https://www.diw.de/de/diw_01.c.939540.de/publikationen/diskussionspapiere/2025_2109/quantifying_the_fiscal_channel_of_monetary_policy.html"
+#links:
+#- name: DIW Working Paper
+#  url: "https://www.diw.de/de/diw_01.c.939540.de/publikationen/diskussionspapiere/2025_2109/quantifying_the_fiscal_channel_of_monetary_policy.html"
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
 #- name: Earlier CEPR DP9702
