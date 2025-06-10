@@ -122,6 +122,7 @@ sections:
         ## Free University Berlin 
         <span style="line-height: 2;"> 
 
+        - Summer 2025 Advanced Macroeconomic Analysis II (PhD), _Teaching Assistant_
         - Winter 2022/2023 Behavioral Macroeconomics, Seminar (B.Sc.), _Teaching Assistant_
         - Summer 2022 Fundamentals of Macroeconomics (B.Sc.), _Teaching Assistant_
         - Winter 2021/2022 Behavioral Macroeconomics, Seminar (B.Sc.), _Teaching Assistant_
