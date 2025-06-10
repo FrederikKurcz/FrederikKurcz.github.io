@@ -27,7 +27,7 @@ organizations:
     url: https://www.diw.de/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth year PhD Student at the Berlin School of Economics, affiliated with the Free University Berlin, and a research associate at the German Institute for Economic Research (DIW Berlin).
+bio: I am a fifth year PhD Student at the Berlin School of Economics, affiliated with the Free University Berlin, and a research associate at the German Institute for Economic Research (DIW Berlin).
 
 # Interests to show in About widget
 interests:
