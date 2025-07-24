@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: DIW Weekly Report
-  url: "https://www.diw.de/sixcms/detail.php?id=diw_01.c.905151.de"
+  url: "https://doi.org/10.18723/diw_dwr:2024-10-1"
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
 #- name: Earlier CEPR DP9702

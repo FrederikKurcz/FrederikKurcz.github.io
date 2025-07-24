@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Monetary policy during the energy price crisis: ECB could have contained inflation earlier"
-authors: ["Gökhan Ider", "Alexander Kriwoluzky", "Frederik Kurcz", "Ben Schumann"]
-date: 2024-10-01
+title: "DIW Berlin Economic Outlook: Policy Changes Leaving Marks on the Economy"
+authors: ["Geraldine Dany-Knedlik", "Guido Baldi", "Nina Maria Brehl", "Hella Engerer", "Angelina Hackmann", "Pia Hüttl", "Konstantin A. Kholodilin", "Frederik Kurcz", "Laura Pagenhardt", "Jan-Christopher Scherer", "Teresa Schildmann", "Hannah Magdalena Seidl", "Ruben Staffa", "Kristin Trautmann"]
+date: 2025-02-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-10-16
+publishDate: 2025-02-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2024-10-16
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***DIW Weekly Report***, 14(41/42/43), pp. 241-247" #  "***Economic Journal***, 133(652), pp. 1318-1347"
+publication: "***DIW Weekly Report***, 15(10/11), pp. 63-75" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
 abstract: ""
@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: DIW Weekly Report
-  url: "https://www.diw.de/de/diw_01.c.918101.de/publikationen/weekly_reports/2024_40_1/monetary_policy_during_the_energy_price_crisis__ecb_could_have_contained_inflation_earlier.html#:~:text=Estimates%20show%20that%20while%20the,have%20stabilized%20inflation%20more%20effectively."
+  url: "https://doi.org/10.18723/diw_dwr:2025-10-1"
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
 #- name: Earlier CEPR DP9702
