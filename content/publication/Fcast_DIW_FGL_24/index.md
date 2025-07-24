@@ -3,7 +3,7 @@
 
 title: "DIW Berlin Economic Outlook: Global Economy Experiencing Robust Growth; Germany’s Recovery Is Delayed Further"
 authors: ["Timm Bönke", "Guido Baldi",  "Hella Engerer", "Pia Hüttl", "Konstantin A. Kholodilin", "Frederik Kurcz", "Violetta Kuzmova-Anand", "Theresa Neef", "Laura Pagenhardt", "Werner Roeger", "Marie Rullière", "Jan-Christopher Scherer", "Teresa Schildmann", "Ruben Staffa", "Kristin Trautmann"]
-date: 2024-01-01
+date: 2024-03-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

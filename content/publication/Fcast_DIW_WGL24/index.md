@@ -3,7 +3,7 @@
 
 title: "DIW Berlin Economic Outlook: German Economy Stuck in Limbo While Trade Conflicts Threaten the Global Economy"
 authors: ["Geraldine Dany-Knedlik", "Guido Baldi", "Nina Maria Brehl", "Hella Engerer", "Angelina Hackmann", "Pia Hüttl", "Konstantin A. Kholodilin", "Frederik Kurcz", "Laura Pagenhardt", "Jan-Christopher Scherer", "Teresa Schildmann", "Hannah Magdalena Seidl", "Ruben Staffa", "Kristin Trautmann"]
-date: 2024-01-01
+date: 2024-12-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

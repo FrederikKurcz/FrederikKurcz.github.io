@@ -3,7 +3,7 @@
 
 title: "DIW Berlin Economic Outlook: Global Economy Recovering Swiftly; German Economy Gaining Momentum"
 authors: ["Geraldine Dany-Knedlik", "Guido Baldi", "Nina Maria Brehl", "Hella Engerer", "Angelina Hackmann", "Pia Hüttl", "Konstantin A. Kholodilin", "Frederik Kurcz", "Laura Pagenhardt", "Marie Rullière", "Jan-Christopher Scherer", "Teresa Schildmann", "Ruben Staffa", "Kristin Trautmann"]
-date: 2024-01-01
+date: 2024-05-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
