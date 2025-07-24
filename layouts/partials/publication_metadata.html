@@ -1,0 +1,7 @@
+<!-- custom publication_metadata.html -->
+
+{{ with .Params.publication_types }}
+  <span>Type: {{ index site.Params.publication_types (index . 0) }}</span>
+{{ end }}
+
+
