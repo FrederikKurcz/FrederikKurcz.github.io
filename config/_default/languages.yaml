@@ -5,6 +5,18 @@
 # Default language
 en:
   languageCode: en-us
+
+  params:
+    publication_types:
+      "0": "Uncategorized"
+      "1": "Conference paper"
+      "2": "Journal article"
+      "3": "Working paper"
+      "4": "Policy report"
+      "5": "Book"
+      "6": "Book chapter"
+      "7": "Thesis"
+      "8": "Patent"
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
