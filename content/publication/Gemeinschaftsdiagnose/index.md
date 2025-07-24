@@ -31,7 +31,7 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: DIW Weekly Report
+- name: Gemeinschaftsdiagnose
   url: "https://gemeinschaftsdiagnose.de/category/gutachten/"
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
