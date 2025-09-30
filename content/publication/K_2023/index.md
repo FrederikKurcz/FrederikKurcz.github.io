@@ -16,7 +16,7 @@ publishDate: 20254-03-01
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "" #  "***Economic Journal***, 133(652), pp. 1318-1347"
+publication: "**Job Market Paper**" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
 abstract: "In macroeconomic models featuring borrowing-constrained agents, the effects of monetary policy depend on the fiscal reaction to interest rate changes. This paper presents new evidence on the dynamic causal effects of U.S. monetary policy shocks on fiscal instruments and estimates a Heterogeneous Agent New Keynesian model with fiscal feedback rules to match the empirical results. I find that U.S. fiscal policy responds to monetary-induced output contractions with debt-financed, countercyclical tax and transfer policies, amid a gradual decline in spending to accommodate the debt increase. The model implies that monetary policy unopposed by a business cycle stabilization motive of fiscal policy would be roughly one third more contractionary. "
