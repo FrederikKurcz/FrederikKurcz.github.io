@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Quantifying the Fiscal Channel of Monetary Policy"
-authors: ["Gökhan Ider", "Alexander Kriwoluzky", "Frederik Kurcz", "Ben Schumann"]
+authors: ["Frederik Kurcz"]
 date: 2025-06-01
 doi: ""
 
@@ -14,6 +14,12 @@ publishDate: 2025-06-01
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
+
+# Disable the single page, keep only the landing-card entry
+build:
+  render: never           # do not render the single page
+  list: always            # still show on landing/list pages
+  publishResources: true  # keep files/images accessible
 
 # Publication name and optional abbreviated publication name.
 publication: "**Job Market Paper** - Presented at: Society for Economic Dynamics Annual Meeting, 2025, Copenhagen, EABCN's 'Can Heterogeneous Agent Models Be Useful for Central Bankers? How?' (Poster), 2025, Bank of England, HANK workshop, 2025, Tübingen, 'Heterogeneous Agents in Macroeconomic Models', 2024, Czech National Bank and CERGE-EI, EEA, 2024, Rotterdam" #  "***Economic Journal***, 133(652), pp. 1318-1347"

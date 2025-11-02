@@ -1,0 +1,43 @@
+{{/* layouts/partials/views/card_publication.html */}}
+<article class="view-card">
+  <div class="section-subheading article-title mb-0 mt-0">
+    {{/* Title without link when single page is disabled or flag set */}}
+    {{ if or (eq .Params.build.render "never") .Params.disable_title_link }}
+      {{ .Title }}
+    {{ else }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ end }}
+  </div>
+
+  <div class="article-metadata">
+    {{ partial "components/metadata_publication" . }}
+  </div>
+
+  {{/* Teaser: summary if present, else abstract */}}
+  {{ $teaser := or .Params.summary .Params.abstract }}
+  {{ with $teaser }}
+    <div class="article-style">{{ . | markdownify }}</div>
+  {{ end }}
+
+  {{/* OPTIONAL: show conferences on the card if provided in front matter */}}
+  {{ with .Params.presented_at }}
+    <div class="article-style mt-2">
+      <strong>Conference &amp; workshop presentations</strong>
+      <ul class="mt-1">
+        {{ range . }}
+          <li>
+            {{- if .url -}}
+              <a href="{{ .url }}" rel="noopener">{{ .text }}</a>
+            {{- else -}}
+              {{ .text }}
+            {{- end -}}
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  {{ end }}
+
+  <div class="btn-links">
+    {{ partial "components/links" . }}
+  </div>
+</article>
