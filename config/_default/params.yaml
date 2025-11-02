@@ -6,7 +6,8 @@
 assets:
   css:
     - "css/custom.css"
-
+  customCSS:
+    - "css/custom.css"
 # Appearance
 
 appearance:
