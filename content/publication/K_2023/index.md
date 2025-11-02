@@ -19,7 +19,10 @@ publication_types: ["3"]
 publication: "**Job Market Paper** - New Draft coming soon" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
-abstract: "In business-cycle models the effects of monetary policy depend on the fiscal reaction to interest rate changes. This paper investigates the fiscal reaction by presenting new evidence on the effects of U.S. monetary policy on fiscal policy instruments. Subsequently, it estimates a Heterogeneous Agent New Keynesian model with flexible fiscal feedback rules to match and interpret the empirical results. I find that U.S. fiscal policy responds to monetary-induced output contractions with debt-financed, countercyclical tax and transfer policies, amid a gradual decline in spending to accommodate the debt increase. The model implies that monetary policy unopposed by a business-cycle stabilization motive of fiscal policy would be roughly one-third more contractionary. As a result, the fiscal channel renders the effects of monetary policy state-dependent on the fiscal capacity for stabilization policy."
+abstract: "In business-cycle models the effects of monetary policy depend on the fiscal reaction to interest rate changes. This paper investigates the fiscal reaction by presenting new evidence on the effects of U.S. monetary policy on fiscal policy instruments. Subsequently, it estimates a Heterogeneous Agent New Keynesian model with flexible fiscal feedback rules to match and interpret the empirical results. I find that U.S. fiscal policy responds to monetary-induced output contractions with debt-financed, countercyclical tax and transfer policies, amid a gradual decline in spending to accommodate the debt increase. The model implies that monetary policy unopposed by a business-cycle stabilization motive of fiscal policy would be roughly one-third more contractionary. As a result, the fiscal channel renders the effects of monetary policy state-dependent on the fiscal capacity for stabilization policy.
+
+Presented at: Society for Economic Dynamics Annual Meeting, 2025, Copenhagen, EABCN's 'Can Heterogeneous Agent Models Be Useful for Central Bankers? How?' (Poster), 2025, Bank of England, HANK workshop, 2025, Tübingen, 'Heterogeneous Agents in Macroeconomic Models', 2024, Czech National Bank and CERGE-EI, EEA, 2024, Rotterdam
+"
 
 # Summary. An optional shortened abstract.
 #summary: "Presented at: Society for Economic Dynamics Annual Meeting, 2025, Copenhagen, EABCN's 'Can Heterogeneous Agent Models Be Useful for Central Bankers? How?' (Poster), 2025, Bank of England, HANK workshop, 2025, Tübingen, 'Heterogeneous Agents in Macroeconomic Models', 2024, Czech National Bank and CERGE-EI, EEA, 2024, Rotterdam,"
@@ -73,4 +76,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
