@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Quantifying the Fiscal Channel of Monetary Policy"
-authors: ["Frederik Kurcz"]
+authors: ["Gökhan Ider", "Alexander Kriwoluzky", "Frederik Kurcz", "Ben Schumann"]
 date: 2025-06-01
 doi: ""
 
