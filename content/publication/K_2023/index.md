@@ -7,7 +7,7 @@ date: 2025-06-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 20254-06-01
+publishDate: 2025-06-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -74,3 +74,11 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+## Conference & workshop presentations
+- Society for Economic Dynamics Annual Meeting — Copenhagen, 2025
+- [EABCN “Can Heterogeneous Agent Models Be Useful for Central Bankers? How?” — Bank of England, 2025](https://cepr.org/events/eabcn-can-heterogeneous-agent-models-be-useful-central-bankers-how)
+- [HANK Workshop — Tübingen, 2025](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/studium/newsfullview-studium-top-aktuell/article/call-for-phd-papers-on-heterogeneous-agent-macroeconomics-hank/)
+- [Heterogeneous Agents in Macroeconomic Models — Czech National Bank & CERGE-EI, Prague, 2024](https://www.cnb.cz/en/economic-research/conferences-seminars-and-workshops/heterogeneous-agents-in-macroeconomic-models/index.html)
+- EEA-ESEM Annual Congress — Rotterdam, 2024
