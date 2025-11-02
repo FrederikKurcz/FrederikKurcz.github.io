@@ -1,0 +1,6 @@
+/* Disable clicks on publication card titles */
+.view-card .section-subheading.article-title a {
+  pointer-events: none;
+  text-decoration: none;
+  color: inherit;
+}
