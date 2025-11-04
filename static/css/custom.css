@@ -1,0 +1,7 @@
+/* FK-CSS-LOADED */
+.view-card .section-subheading.article-title a{
+  pointer-events:none!important;
+  cursor:default!important;
+  text-decoration:none!important;
+  color:inherit!important;
+}
