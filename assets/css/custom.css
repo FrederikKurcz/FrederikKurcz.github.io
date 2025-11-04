@@ -1,3 +1,6 @@
+/* FK-CSS-LOADED */
+body { outline: 3px solid red !important; }
+
 /* assets/css/custom.css */
 .view-card .section-subheading.article-title a {
   pointer-events: none !important;
