@@ -1,7 +1,19 @@
-/* FK-CSS-LOADED */
-.view-card .section-subheading.article-title a{
-  pointer-events:none!important;
-  cursor:default!important;
-  text-decoration:none!important;
-  color:inherit!important;
+/* Disable clicks on all article-title links (cards, lists, etc.) */
+.section-subheading.article-title a,
+.view-card .article-title a,
+.pub-list .pub-title a,
+.publication-list .pub-title a {
+  pointer-events: none !important;
+  cursor: default !important;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+/* KEEP action buttons & badges clickable */
+.view-card .btn-links a,
+.btn-links a,
+.badge a {
+  pointer-events: auto !important;
+  cursor: pointer !important;
+  text-decoration: none;
 }
