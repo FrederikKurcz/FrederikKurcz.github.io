@@ -1,4 +1,16 @@
 ---
+
+<style>
+/* FK-CSS-LOADED */
+.view-card .section-subheading.article-title a{
+  pointer-events:none!important;
+  cursor:default!important;
+  text-decoration:none!important;
+  color:inherit!important;
+}
+</style>
+
+
 # Leave the homepage title empty to use the site title
 title: ''
 date: 2023-12-29
