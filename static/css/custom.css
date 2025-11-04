@@ -1,3 +1,6 @@
+/* FK-CSS-LOADED */ body { outline: 2px solid red !important; }
+
+
 /* FK: disable all inline links on cards/lists, keep buttons clickable */
 .view-card a:not(.btn),
 .pub-list a:not(.btn),
