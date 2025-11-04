@@ -1,7 +1,6 @@
-/* Turn off ALL links inside publication/policy cards & lists */
-.view-card a,
-.pub-list a,
-.publication-list a {
+.view-card a:not(.btn),
+.pub-list a:not(.btn),
+.publication-list a:not(.btn) {
   pointer-events: none !important;
   cursor: default !important;
   text-decoration: none !important;
