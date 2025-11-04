@@ -7,16 +7,6 @@ title: ''
 date: 2023-12-29
 type: landing
 
-<style>
-/* FK-CSS-LOADED */
-.view-card .section-subheading.article-title a{
-  pointer-events:none!important;
-  cursor:default!important;
-  text-decoration:none!important;
-  color:inherit!important;
-}
-</style>
-
 
 
 sections:
