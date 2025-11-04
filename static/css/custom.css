@@ -1,17 +1,30 @@
 /* FK-CSS-LOADED */ body { outline: 2px solid red !important; }
 
+/* FK: cache-busted v3 — add a loud outline so we can see it loaded */
+body { outline: 2px solid red !important; }
 
-/* FK: disable all inline links on cards/lists, keep buttons clickable */
-.view-card a:not(.btn),
-.pub-list a:not(.btn),
-.publication-list a:not(.btn) {
+/* Universal: kill any inline link to internal publication pages (keep buttons) */
+a[href*="/publication/"]:not(.btn) {
   pointer-events: none !important;
   cursor: default !important;
   text-decoration: none !important;
   color: inherit !important;
 }
 
-/* Keep explicit action buttons (PDF, Working Paper) clickable */
+/* Card/list variants used by Current Work / Publications / Policy Work */
+.section-subheading.article-title a,
+.article-title a,
+.view-card a:not(.btn),
+.pub-list a:not(.btn),
+.publication-list a:not(.btn),
+.pub-title a {
+  pointer-events: none !important;
+  cursor: default !important;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+/* Keep explicit action buttons (PDF, Working Paper, DIW, etc.) clickable */
 .btn-links a,
 a.btn {
   pointer-events: auto !important;
