@@ -31,3 +31,10 @@ a.btn {
   cursor: pointer !important;
   text-decoration: none;
 }
+
+/* Make publication/policy titles bold again */
+.section-subheading.article-title a,
+.article-title a,
+.pub-title a {
+  font-weight: 700 !important; /* or 600 if you prefer */
+}
