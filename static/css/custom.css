@@ -1,0 +1,7 @@
+/* Landing/list cards: make titles look/act like plain text */
+.view-card .section-subheading.article-title a {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  color: inherit;
+}
