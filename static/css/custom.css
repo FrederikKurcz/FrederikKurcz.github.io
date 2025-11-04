@@ -1,3 +1,4 @@
+/* FK: disable all inline links on cards/lists, keep buttons clickable */
 .view-card a:not(.btn),
 .pub-list a:not(.btn),
 .publication-list a:not(.btn) {
@@ -5,4 +6,12 @@
   cursor: default !important;
   text-decoration: none !important;
   color: inherit !important;
+}
+
+/* Keep explicit action buttons (PDF, Working Paper) clickable */
+.btn-links a,
+a.btn {
+  pointer-events: auto !important;
+  cursor: pointer !important;
+  text-decoration: none;
 }
