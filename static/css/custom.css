@@ -32,15 +32,18 @@ a.btn {
   text-decoration: none;
 }
 
-/* Make publication/policy titles bold again */
+/* Bold titles everywhere (cards + pub/policy lists) */
+.section-subheading.article-title,
 .section-subheading.article-title a,
-.article-title a,
-.pub-title a {
-  font-weight: 700 !important; /* or 600 if you prefer */
+.pub-list .pub-title,
+.pub-list .pub-title a,
+.publication-list .pub-title,
+.publication-list .pub-title a {
+  font-weight: 700 !important;
 }
 
-.section-subheading.article-title a,
-.article-title a,
-.pub-title a {
-  color: #0d6efd !important; /* optional */
+/* Keep Publications/Policy titles NOT blue (inherit site text color) */
+.pub-list .pub-title a,
+.publication-list .pub-title a {
+  color: inherit !important;
 }
