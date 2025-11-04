@@ -39,6 +39,8 @@ featured: false
 links:
 - name: DIW Working Paper
   url: "https://www.diw.de/de/diw_01.c.939540.de/publikationen/diskussionspapiere/2025_2109/quantifying_the_fiscal_channel_of_monetary_policy.html"
+- name: New version
+  url: pdf_files/Kurcz_2025.pdf
 #- name: Ungated
 #  url: files/BBEG_2018wp.pdf
 #- name: Earlier CEPR DP9702
