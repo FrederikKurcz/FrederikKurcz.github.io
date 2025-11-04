@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Do words hurt more than actions? The impact of trade tensions on financial markets"
+title: "***Do words hurt more than actions? The impact of trade tensions on financial markets***"
 authors: ["Massimo Ferrari Minesso", "Frederik Kurcz", "Maria Sole Pagliari"]
 date: 2022-01-01
 doi: ""
