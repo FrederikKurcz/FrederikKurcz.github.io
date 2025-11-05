@@ -16,7 +16,8 @@ publishDate: 2025-05-01
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "(Previously circulated as The Energy-Price Channel of (European) Monetary Policy)" #  "***Economic Journal***, 133(652), pp. 1318-1347"
+publication: "Presented at: Kiel-CEPR Conference 2025, EEA Annual Congress
+2023, Oslo Macro Conference 2023, the European Central Bank, and other seminars. (Previously circulated as The Energy-Price Channel of (European) Monetary Policy)" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
 abstract: "In this paper, we first document a new empirical finding by showing that the European
