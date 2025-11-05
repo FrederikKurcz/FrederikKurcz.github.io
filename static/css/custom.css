@@ -32,18 +32,38 @@ a.btn {
   text-decoration: none;
 }
 
-/* Bold titles everywhere (cards + pub/policy lists) */
-.section-subheading.article-title,
-.section-subheading.article-title a,
-.pub-list .pub-title,
-.pub-list .pub-title a,
-.publication-list .pub-title,
-.publication-list .pub-title a {
+
+
+
+/* v6: Force bold titles in ALL publication/policy listings (cards + lists) */
+
+/* Card titles (Current work etc.) */
+.view-card .section-subheading.article-title,
+.view-card .section-subheading.article-title a {
   font-weight: 700 !important;
 }
 
-/* Keep Publications/Policy titles NOT blue (inherit site text color) */
+/* List-style titles used in Publications / Policy Work */
+.pub-list .pub-title,
 .pub-list .pub-title a,
-.publication-list .pub-title a {
-  color: inherit !important;
+.publication-list .pub-title,
+.publication-list .pub-title a,
+.pub-list .media__title,
+.pub-list .media__title a,
+.publication-list .media__title,
+.publication-list .media__title a,
+.pub-list .media-heading,
+.pub-list .media-heading a,
+.publication-list .media-heading,
+.publication-list .media-heading a {
+  font-weight: 700 !important;
+  color: inherit !important;  /* keep them non-blue */
+}
+
+/* Safety net: any heading-like title inside pub lists */
+.pub-list :is(h1,h2,h3,h4,h5,h6).article-title,
+.pub-list :is(h1,h2,h3,h4,h5,h6).article-title a,
+.publication-list :is(h1,h2,h3,h4,h5,h6).article-title,
+.publication-list :is(h1,h2,h3,h4,h5,h6).article-title a {
+  font-weight: 700 !important;
 }
