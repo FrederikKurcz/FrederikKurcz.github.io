@@ -34,36 +34,41 @@ a.btn {
 
 
 
+/* v8 — force bold titles in Publications & Policy Work, keep them inert */
 
-/* v6: Force bold titles in ALL publication/policy listings (cards + lists) */
+/* Make internal page links inert (you already have this) */
+a[href*="/publication/"]:not(.btn),
+a[href*="/policy/"]:not(.btn),
+a[href*="/report/"]:not(.btn) {
+  pointer-events: none !important;
+  cursor: default !important;
+  text-decoration: none !important;
+  color: inherit !important;
+}
 
-/* Card titles (Current work etc.) */
+/* FORCE BOLD in list-style sections */
+.pub-list a,
+.publication-list a,
+.pub-list .pub-title,
+.publication-list .pub-title,
+.pub-list .media__title,
+.publication-list .media__title,
+.pub-list .media-heading,
+.publication-list .media-heading,
+.pub-list h1, .pub-list h2, .pub-list h3, .pub-list h4, .pub-list h5, .pub-list h6,
+.publication-list h1, .publication-list h2, .publication-list h3, .publication-list h4, .publication-list h5, .publication-list h6 {
+  font-weight: 700 !important;
+  color: inherit !important; /* keep them non-blue */
+}
+
+/* Override common “normalize to regular” utility classes within those sections */
+.pub-list .fw-normal, .publication-list .fw-normal,
+.pub-list .font-weight-normal, .publication-list .font-weight-normal {
+  font-weight: 700 !important;
+}
+
+/* Card titles (Current Work etc.) remain bold as well */
 .view-card .section-subheading.article-title,
 .view-card .section-subheading.article-title a {
-  font-weight: 700 !important;
-}
-
-/* List-style titles used in Publications / Policy Work */
-.pub-list .pub-title,
-.pub-list .pub-title a,
-.publication-list .pub-title,
-.publication-list .pub-title a,
-.pub-list .media__title,
-.pub-list .media__title a,
-.publication-list .media__title,
-.publication-list .media__title a,
-.pub-list .media-heading,
-.pub-list .media-heading a,
-.publication-list .media-heading,
-.publication-list .media-heading a {
-  font-weight: 700 !important;
-  color: inherit !important;  /* keep them non-blue */
-}
-
-/* Safety net: any heading-like title inside pub lists */
-.pub-list :is(h1,h2,h3,h4,h5,h6).article-title,
-.pub-list :is(h1,h2,h3,h4,h5,h6).article-title a,
-.publication-list :is(h1,h2,h3,h4,h5,h6).article-title,
-.publication-list :is(h1,h2,h3,h4,h5,h6).article-title a {
   font-weight: 700 !important;
 }
