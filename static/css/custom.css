@@ -64,16 +64,15 @@ section#policy       a.btn {
 }
 
 
-/* Titles = site link color (and bold) */
+/* Slightly softer blue (80% opacity) */
 section#publications a[href^="/publication/"]:not(.btn),
 section#policy       a[href^="/publication/"]:not(.btn) {
-  color: var(--bs-link-color, #0d6efd) !important;   /* normal link color */
+  color: rgba(21, 101, 192, 0.8) !important; /* #1565c0 at 80% */
   font-weight: 700 !important;
 }
 
-/* (Optional) if you want a distinct hover shade, use the theme’s hover var */
+/* Optional: full-strength on hover */
 section#publications a[href^="/publication/"]:not(.btn):hover,
 section#policy       a[href^="/publication/"]:not(.btn):hover {
-  color: var(--bs-link-hover-color, #1565c0) !important;
+  color: rgba(21, 101, 192, 1) !important;
 }
-
