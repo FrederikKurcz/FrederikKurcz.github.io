@@ -51,7 +51,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Current work
+      title: Working papers
       filters:
         folders:
           - publication
