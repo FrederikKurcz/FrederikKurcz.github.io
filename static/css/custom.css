@@ -32,38 +32,27 @@ a.btn {
   text-decoration: none;
 }
 
-/* v9 — disable links + force bold in citation views for Publications & Policy */
 
-/* Make every non-button link inert inside these two sections */
-section#publications a:not(.btn),
-section#policy a:not(.btn) {
+
+
+
+/* v10 — make item titles bold & inert in Publications + Policy */
+
+/* Disable & style only the item-title links (not buttons) */
+section#publications a[href^="/publication/"]:not(.btn),
+section#policy       a[href^="/publication/"]:not(.btn) {
   pointer-events: none !important;
   cursor: default !important;
   text-decoration: none !important;
   color: inherit !important;
+  font-weight: 700 !important;   /* <-- force bold on the item titles */
 }
 
-/* Force the title text bold in both sections (catch common title wrappers) */
-section#publications .pub-title,
-section#publications .pub-title a,
-section#publications .article-title,
-section#publications .article-title a,
-section#publications h1, section#publications h2, section#publications h3,
-section#publications h4, section#publications h5, section#publications h6,
-section#policy .pub-title,
-section#policy .pub-title a,
-section#policy .article-title,
-section#policy .article-title a,
-section#policy h1, section#policy h2, section#policy h3,
-section#policy h4, section#policy h5, section#policy h6 {
-  font-weight: 700 !important;
-}
-
-/* Keep explicit action buttons (PDF / Working Paper) clickable */
+/* Keep action buttons (PDF, Working Paper, etc.) clickable */
 section#publications .btn-links a,
-section#policy .btn-links a,
+section#policy       .btn-links a,
 section#publications a.btn,
-section#policy a.btn {
+section#policy       a.btn {
   pointer-events: auto !important;
   cursor: pointer !important;
 }
