@@ -3,11 +3,11 @@
 
 title: "Friend, Not Foe? Monetary Policy and Energy Prices"
 authors: ["Gökhan Ider", "Alexander Kriwoluzky", "Frederik Kurcz", "Ben Schumann"]
-date: 2025-05-01
+date: 2025-08-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-05-01
+publishDate: 2025-08-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
