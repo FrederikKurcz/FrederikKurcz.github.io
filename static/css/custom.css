@@ -32,43 +32,38 @@ a.btn {
   text-decoration: none;
 }
 
+/* v9 — disable links + force bold in citation views for Publications & Policy */
 
-
-/* v8 — force bold titles in Publications & Policy Work, keep them inert */
-
-/* Make internal page links inert (you already have this) */
-a[href*="/publication/"]:not(.btn),
-a[href*="/policy/"]:not(.btn),
-a[href*="/report/"]:not(.btn) {
+/* Make every non-button link inert inside these two sections */
+section#publications a:not(.btn),
+section#policy a:not(.btn) {
   pointer-events: none !important;
   cursor: default !important;
   text-decoration: none !important;
   color: inherit !important;
 }
 
-/* FORCE BOLD in list-style sections */
-.pub-list a,
-.publication-list a,
-.pub-list .pub-title,
-.publication-list .pub-title,
-.pub-list .media__title,
-.publication-list .media__title,
-.pub-list .media-heading,
-.publication-list .media-heading,
-.pub-list h1, .pub-list h2, .pub-list h3, .pub-list h4, .pub-list h5, .pub-list h6,
-.publication-list h1, .publication-list h2, .publication-list h3, .publication-list h4, .publication-list h5, .publication-list h6 {
-  font-weight: 700 !important;
-  color: inherit !important; /* keep them non-blue */
-}
-
-/* Override common “normalize to regular” utility classes within those sections */
-.pub-list .fw-normal, .publication-list .fw-normal,
-.pub-list .font-weight-normal, .publication-list .font-weight-normal {
+/* Force the title text bold in both sections (catch common title wrappers) */
+section#publications .pub-title,
+section#publications .pub-title a,
+section#publications .article-title,
+section#publications .article-title a,
+section#publications h1, section#publications h2, section#publications h3,
+section#publications h4, section#publications h5, section#publications h6,
+section#policy .pub-title,
+section#policy .pub-title a,
+section#policy .article-title,
+section#policy .article-title a,
+section#policy h1, section#policy h2, section#policy h3,
+section#policy h4, section#policy h5, section#policy h6 {
   font-weight: 700 !important;
 }
 
-/* Card titles (Current Work etc.) remain bold as well */
-.view-card .section-subheading.article-title,
-.view-card .section-subheading.article-title a {
-  font-weight: 700 !important;
+/* Keep explicit action buttons (PDF / Working Paper) clickable */
+section#publications .btn-links a,
+section#policy .btn-links a,
+section#publications a.btn,
+section#policy a.btn {
+  pointer-events: auto !important;
+  cursor: pointer !important;
 }
