@@ -35,17 +35,23 @@ a.btn {
 
 
 
+/* v11 — Publications & Policy: only titles are blue+bold; all other links inert/normal */
 
-/* v10 — make item titles bold & inert in Publications + Policy */
-
-/* Disable & style only the item-title links (not buttons) */
-section#publications a[href^="/publication/"]:not(.btn),
-section#policy       a[href^="/publication/"]:not(.btn) {
+/* Default for ALL non-button links in these sections: inert, normal weight, inherit color */
+section#publications a:not(.btn),
+section#policy a:not(.btn) {
   pointer-events: none !important;
   cursor: default !important;
   text-decoration: none !important;
   color: inherit !important;
-  font-weight: 700 !important;   /* <-- force bold on the item titles */
+  font-weight: 400 !important;
+}
+
+/* Override for the ITEM TITLES only (they link to /publication/...) */
+section#publications a[href^="/publication/"]:not(.btn),
+section#policy       a[href^="/publication/"]:not(.btn) {
+  color: #0d6efd !important;   /* blue title */
+  font-weight: 700 !important; /* bold title */
 }
 
 /* Keep action buttons (PDF, Working Paper, etc.) clickable */
