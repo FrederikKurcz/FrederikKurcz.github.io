@@ -20,17 +20,7 @@ publication: "Presented at: Kiel-CEPR Conference 2025, EEA Annual Congress
 2023, Oslo Macro Conference 2023, the European Central Bank, and other seminars. (Previously circulated as The Energy-Price Channel of (European) Monetary Policy)" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
-abstract: "In this paper, we first document a new empirical finding by showing that the European
-Central Bank’s (ECB) monetary policy decisions significantly influence global energy
-prices. Through Lucas-critique-robust counterfactual analysis, we then empirically study
-the implications of this result for the transmission of monetary policy. Our findings reveal
-that a central bank’s ability to affect energy prices strengthens and accelerates the
-monetary transmission to inflation dynamics, and alleviates the inflation-output trade-off.
-We illustrate the relevance of these results by examining their role in the optimal policy
-response to an energy supply shock. Our estimates show that monetary policy’s ability
-to affect global energy prices effectively halves the necessary tightening to stabilize inflation
-and the corresponding economic contraction, compared to a scenario in which energy
-prices are unaffected by monetary policy."
+abstract: "We empirically show that a central bank’s ability to affect global energy prices crucially alters monetary policy transmission. We first provide novel evidence that euro area monetary policy significantly affects energy prices. Employing a Lucas critique-robust counterfactual framework, we find that this ability strengthens and accelerates transmission to inflation and substantially alleviates the inflation-output trade-off. We further show that this ability materially shapes the mandate-optimal policy response to an energy supply shock: the optimal response implies a smaller interest rate increase and a more favorable inflation-output allocation than in a scenario where energy prices are unaffected by monetary policy."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -45,7 +35,7 @@ links:
 - name: DIW Working Paper
   url: "https://www.diw.de/de/diw_01.c.907121.de/publikationen/diskussionspapiere/2024_2089/friend__not_foe_-_energy_prices_and_european_monetary_policy.html"
 - name: New version
-  url: pdf_files/Ider_Kriwoluzky_Kurcz_Schumann_2025.pdf
+  url: pdf_files/Ider_Kriwoluzky_Kurcz_Schumann_2026.pdf
 #- name: Earlier CEPR DP9702
 #  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=9702"
 #- name: Earlier NBER WP19180
