@@ -16,7 +16,7 @@ publishDate: 2025-08-01
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Presented at: Kiel-CEPR Conference 2025, EEA Annual Congress
+publication: "**R&R at Journal of Political Economy: Macroeconomics**<br>Presented at: Kiel-CEPR Conference 2025, Applied Macroeconomics in a Changing World (Oslo, 2025), EEA Annual Congress
 2023, Oslo Macro Conference 2023, the European Central Bank, and other seminars. (Previously circulated as The Energy-Price Channel of (European) Monetary Policy)" #  "***Economic Journal***, 133(652), pp. 1318-1347"
 publication_short: ""
 
