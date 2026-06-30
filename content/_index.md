@@ -163,7 +163,7 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        street: Mohrenstraße 58
+        street: Anton-Wilhelm-Amo-Straße 58
         city: Berlin
         #region: CA
         postcode: '10117'
