@@ -99,6 +99,10 @@ sections:
        # {{% callout note %}}
        # Quickly discover relevant content by [filtering publications](./publication/).
        # {{% /callout %}}
+      archive:
+        enable: true
+        link: /publication/
+        text: See all policy reports
       filters:
         folders:
           - publication
