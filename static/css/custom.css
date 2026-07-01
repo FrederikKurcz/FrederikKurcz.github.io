@@ -1,8 +1,3 @@
-/* FK-CSS-LOADED */ body { outline: 2px solid red !important; }
-
-/* FK: cache-busted v3 — add a loud outline so we can see it loaded */
-body { outline: 2px solid red !important; }
-
 /* Universal: kill any inline link to internal publication pages (keep buttons) */
 a[href*="/publication/"]:not(.btn) {
   pointer-events: none !important;
@@ -24,9 +19,10 @@ a[href*="/publication/"]:not(.btn) {
   color: inherit !important;
 }
 
-/* Keep explicit action buttons (PDF, Working Paper, DIW, etc.) clickable */
+/* Keep explicit action buttons (PDF, Working Paper, DIW, etc.) and see-all clickable */
 .btn-links a,
-a.btn {
+a.btn,
+.see-all a {
   pointer-events: auto !important;
   cursor: pointer !important;
   text-decoration: none;
@@ -54,11 +50,12 @@ section#policy       a[href^="/publication/"]:not(.btn) {
   font-weight: 700 !important; /* bold title */
 }
 
-/* Keep action buttons (PDF, Working Paper, etc.) clickable */
+/* Keep action buttons (PDF, Working Paper, etc.) and see-all link clickable */
 section#publications .btn-links a,
 section#policy       .btn-links a,
 section#publications a.btn,
-section#policy       a.btn {
+section#policy       a.btn,
+section#policy       .see-all a {
   pointer-events: auto !important;
   cursor: pointer !important;
 }
