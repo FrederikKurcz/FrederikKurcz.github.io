@@ -101,7 +101,7 @@ sections:
        # {{% /callout %}}
       archive:
         enable: true
-        link: /publication/
+        link: /publication-type/4/
         text: See all policy reports
       filters:
         folders:
