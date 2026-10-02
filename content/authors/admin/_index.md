@@ -17,17 +17,17 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Berlin School of Economics
-    url: https://berlinschoolofeconomics.de/home
-  - name: DIW Berlin
-    url: https://www.diw.de/en
+  - name: University of Bonn
+    url: https://www.uni-bonn.de/en
+  - name: Institute for Macroeconomics and Econometrics
+    url: https://www.iame.uni-bonn.de/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fifth year PhD Student at the Berlin School of Economics, affiliated with the Free University Berlin, and a research associate at the German Institute for Economic Research (DIW Berlin).
+bio: I am a Postdoctoral Researcher at the University of Bonn, Institute for Macroeconomics and Econometrics.
 
 # Interests to show in About widget
 interests:
@@ -86,10 +86,7 @@ social:
 highlight_name: true
 ---
 
-I am a PhD Student at the Berlin School of Economics, affiliated with the Free University Berlin and a research associate at the German Institute for Economic Research (DIW Berlin).
-Previously, I worked as a trainee and research analyst at the European Central Bank as well as at the Deutsche Bundesbank.
-
-I am happy to join the University of Bonn, Institute for Macroeconomics and Econometrics, in the Fall 2026 as a Postdoctoral Researcher.
+I am a Postdoctoral Researcher at the University of Bonn, Institute for Macroeconomics and Econometrics. I did my PhD at the Berlin School of Economics, affiliated with the Free University Berlin and a as a research associate at the German Institute for Economic Research (DIW Berlin). Previously, I worked as a trainee and research analyst at the European Central Bank as well as at the Deutsche Bundesbank.
 
 My research interests include transmission channels of monetary policy, monetary and fiscal policy interaction, and inequality.
 {style="text-align: justify;"}
