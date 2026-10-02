@@ -167,10 +167,10 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        street: Anton-Wilhelm-Amo-Straße 58
-        city: Berlin
+        street: Kaiserplatz 7-9
+        city: Bonn
         #region: CA
-        postcode: '10117'
+        postcode: '53113'
         country: Germany
         #country_code: US
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2

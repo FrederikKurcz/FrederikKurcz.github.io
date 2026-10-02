@@ -24,7 +24,7 @@ organizations:
   - name: University of Bonn
     url: https://www.uni-bonn.de/en
   - name: Institute for Macroeconomics and Econometrics
-    url: https://www.iame.uni-bonn.de/en
+    url: https://www.econ.uni-bonn.de/macro/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Postdoctoral Researcher at the University of Bonn, Institute for Macroeconomics and Econometrics.
