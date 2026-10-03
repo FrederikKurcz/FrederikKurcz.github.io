@@ -86,7 +86,7 @@ social:
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher at the University of Bonn, Institute for Macroeconomics and Econometrics. I did my PhD at the Berlin School of Economics, affiliated with the Free University Berlin and a as a research associate at the German Institute for Economic Research (DIW Berlin). Previously, I worked as a trainee and research analyst at the European Central Bank as well as at the Deutsche Bundesbank.
+I am a Postdoctoral Researcher at the University of Bonn, Institute for Macroeconomics and Econometrics. I did my PhD at the Berlin School of Economics, affiliated with the Free University Berlin and as a research associate at the German Institute for Economic Research (DIW Berlin). Previously, I worked as a trainee and research analyst at the European Central Bank as well as at the Deutsche Bundesbank.
 
 My research interests include transmission channels of monetary policy, monetary and fiscal policy interaction, and inequality.
 {style="text-align: justify;"}
