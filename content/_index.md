@@ -129,6 +129,11 @@ sections:
       title: Teaching
       #subtitle: My subtitle
       text: |- 
+        ## University of Bonn
+        <span style="line-height: 2;"> 
+
+        - Winter 2026/2027 Principles of Economics: Macroeconomics (B.Sc.), _Teaching Assistant_
+
         ## Free University Berlin 
         <span style="line-height: 2;"> 
 
