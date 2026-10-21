@@ -36,6 +36,8 @@ links:
   url: "https://www.diw.de/de/diw_01.c.907121.de/publikationen/diskussionspapiere/2024_2089/friend__not_foe_-_energy_prices_and_european_monetary_policy.html"
 - name: New version
   url: pdf_files/Ider_Kriwoluzky_Kurcz_Schumann_2026.pdf
+- name: SUERF Policy Brief
+  url: "https://www.suerf.org/publications/suerf-policy-notes-and-briefs/friend-not-foe-monetary-policy-and-energy-prices/"
 #- name: Earlier CEPR DP9702
 #  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=9702"
 #- name: Earlier NBER WP19180
